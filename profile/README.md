@@ -1,4 +1,4 @@
-# 🏛️ Máfia Italiana
+### 🏛️ Máfia Italiana
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Reposit%C3%B3rio+Oficial;Trabalhos+%26+Projetos+de+TI;High+School+Tech+Hub" alt="Typing SVG" />
@@ -53,7 +53,7 @@ Nosso foco abrange diversas linguagens, frameworks e ferramentas aprendidas dura
   <!-- Jonatan Natan -->
   <td align="center">
       <a href="https://github.com/jonatanscala-design">
-        <img src="https://github.com/jonatanscala-design.png" width="100px" style="border-radius:50%;" alt="Jonatan Natan"><br>
+        <img src="https://scontent.cdninstagram.com/v/t51.82787-19/828831420_18048150371811423_5382672277296963734_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMyIn0%3D&_nc_ohc=jPnbcpX-ChYQ7kNvwFt8qau&_nc_oc=Adpx66DgqbjjdT3KcAmmPn46-CQmZ4yj0mtZ38Hkdd3i8R8mxq_otisgT3aySR_faHbNeRhwpPBip_LyVFikwU4A&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=KU4k0UGuJ6C0QPil6N5BJw&_nc_ss=7b689&oh=00_AQMSEhDPwgdheuvdCe0jbGuhRojfCTU7BUUmJWsBZPsWyA&oe=6AC5F8CC" width="100px" style="border-radius:50%;" alt="Jonatan Natan"><br>
         <b>Jonatan Natan</b><br>
         <sub>(Jonatan)</sub>
       </a>
