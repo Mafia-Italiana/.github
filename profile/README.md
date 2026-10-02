@@ -32,21 +32,31 @@ Nosso foco abrange diversas linguagens, frameworks e ferramentas aprendidas dura
 
 <table align="center">
   <tr>
+    <!-- Pedro Carnio -->
     <td align="center">
       <a href="https://github.com/shadowvoidh">
+        <img src="../250924053.jpeg" width="100px" style="border-radius:50%;" alt="Pedro Carnio"><br>
         <b>Pedro Carnio</b><br>
         <sub>(Shadow_Voidh)</sub>
       </a>
     </td>
-    <td align="center">
+
+  <!-- Luiz Felipe -->
+  <td align="center">
       <a href="https://github.com/Luizrandow">
-      <b>Luiz Felipe</b><br>
-      <sub>(Randow)</sub>
+        <img src="../glitch-error-404-page_23-2148105404.avif" width="100px" style="border-radius:50%;" alt="Luiz Felipe"><br>
+        <b>Luiz Felipe</b><br>
+        <sub>(Randow)</sub>
+      </a>
     </td>
-    <td align="center">
+
+  <!-- Jonatan Natan -->
+  <td align="center">
       <a href="https://github.com/jonatanscala-design">
-      <b>Jonatan Natan</b><br>
-      <sub>(Jonatan)</sub>
+        <img src="https://github.com/jonatanscala-design.png" width="100px" style="border-radius:50%;" alt="Jonatan Natan"><br>
+        <b>Jonatan Natan</b><br>
+        <sub>(Jonatan)</sub>
+      </a>
     </td>
   </tr>
 </table>
